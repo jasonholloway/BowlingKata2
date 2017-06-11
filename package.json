@@ -2,7 +2,7 @@
   "name": "bowling2",
   "version": "1.0.0",
   "description": "bowling kata attempt in typescript",
-  "main": "dist/bowling.js",
+  "main": "src/bowling",
   "scripts": {
     "test": "mocha -r ts-node/register src/test.js"
   },
@@ -11,8 +11,10 @@
   "devDependencies": {
     "@types/chai": "^4.0.0",
     "@types/mocha": "^2.2.41",
+    "@types/node": "^7.0.29",
     "chai": "^4.0.2",
     "mocha": "^3.4.2",
     "typescript": "^2.3.4"
-  }
+  },
+  "dependencies": {}
 }
