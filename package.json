@@ -16,5 +16,8 @@
     "mocha": "^3.4.2",
     "typescript": "^2.3.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "mocha-testcheck": "^1.0.0-rc.0",
+    "testcheck": "^1.0.0-rc.2"
+  }
 }
